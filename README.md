@@ -27,3 +27,16 @@ FLOWCHART = Q1M, Q2M, ME (use RAPTOR, the Rapid Algorithmic Prototyping Tool for
 <br>
 ![image](https://user-images.githubusercontent.com/10474143/53648419-d9d80380-3c7a-11e9-9657-c1b69148c816.png) - 40%
 
+## [ASS 2] ᜆᜃ᜔ᜇᜅ᜔ ᜀᜇᜎᜒᜈ᜔ ᜵ ASSIGNMENT
+Pass the code of your quiz 1 with comments.
+
+## [ASS 3] ᜆᜃ᜔ᜇᜅ᜔ ᜀᜇᜎᜒᜈ᜔ ᜵ ASSIGNMENT
+Pass the code of your quizzes with comments.<br>
+with file names of Q2FB1.cpp and Q2FB2.cpp<br>
+<br>
+Write code using a class, passing an array function, and return value 1 and 0: (debugging process)<br>
+Batch 1: if the index of the array is a binary palindromic prime, change the value to 143.<br>
+Batch 2: if the index of the array is a wasteful number, add 1 on its value. Start index = 2.<br>
+
+## [ASS 4] FINAL EXAM CODE
+PASARNATHIS.CPP (FINAL EXAM ᜅ CPP)
