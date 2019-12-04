@@ -40,3 +40,14 @@ Batch 2: if the index of the array is a wasteful number, add 1 on its value. Sta
 
 ## [ASS 4] FINAL EXAM CODE
 PASARNATHIS.CPP (FINAL EXAM ᜅ CPP)
+
+## [PROJ 1] TRANSLATE THE CODE TO THE FOLLOWING LANGUAGES
+WASTEFUL NUMBER:<br>
+<br>
+FROM [C] - TC -><br>
+[Java] - BLUEJ<br>
+[Python] - PYTHON27 OR 3<br>
+[C#] - MICROSOFT VISUAL STUDIO<br>
+[C++] - DEVCPP/CODEBLOCKS/MICROSOFT VISUAL STUDIO<br>
+
+## 
